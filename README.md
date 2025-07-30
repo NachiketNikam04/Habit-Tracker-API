@@ -35,3 +35,4 @@ This is a simple **RESTful API built with Java and Spring Boot** to manage daily
 ### 🔧 Database Setup:
 ```sql
 CREATE DATABASE habitdb;
+
